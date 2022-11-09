@@ -101,7 +101,7 @@ Sd(t) = Sm(t) * Sn(t).
 
 <p align="center"><img src="screenshots/11.png"/></p>
 <p align="center">Рис.14. Восстановленное сигнальное созвездие при ФМ2 с отношением ОСШ
-40 дБ.</p>
+30 дБ.</p>
 
 <p align="center"><img src="screenshots/12.png"/></p>
 <p align="center">Рис.15. Восстановленное сигнальное созвездие при ФМ2 с отношением ОСШ
